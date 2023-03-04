@@ -247,6 +247,10 @@
 		},
 		{
 			"Name": "DiscordRpc",
+			"Enabled": false
+		},
+		{
+			"Name": "DiscordUE4",
 			"Enabled": true
 		}
 	]
