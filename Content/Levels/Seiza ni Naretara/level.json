@@ -543,25 +543,25 @@
     {
       "type": 0,
       "startTime": 18.798,
-      "y": 0.5416667,
-      "direction": 0
-    },
-    {
-      "type": 0,
-      "startTime": 18.92,
       "y": 0.6666667,
       "direction": 0
     },
     {
       "type": 0,
+      "startTime": 18.92,
+      "y": 0.5,
+      "direction": 0
+    },
+    {
+      "type": 0,
       "startTime": 19.0420017,
-      "y": 0.375,
+      "y": 0.208333328,
       "direction": 0
     },
     {
       "type": 0,
       "startTime": 19.163,
-      "y": 0.25,
+      "y": 0.333333343,
       "direction": 0
     },
     {
@@ -1244,12 +1244,6 @@
     },
     {
       "type": 0,
-      "startTime": 38.798,
-      "y": 0.7083333,
-      "direction": 0
-    },
-    {
-      "type": 0,
       "startTime": 38.920002,
       "y": 0.7083333,
       "direction": 0
@@ -1264,12 +1258,6 @@
       "type": 0,
       "startTime": 39.163002,
       "y": 0.7916667,
-      "direction": 0
-    },
-    {
-      "type": 0,
-      "startTime": 39.2850037,
-      "y": 0.333333343,
       "direction": 0
     },
     {
@@ -1394,19 +1382,7 @@
     },
     {
       "type": 0,
-      "startTime": 41.9680023,
-      "y": 0.5833333,
-      "direction": 0
-    },
-    {
-      "type": 0,
       "startTime": 42.09,
-      "y": 0.291666657,
-      "direction": 0
-    },
-    {
-      "type": 0,
-      "startTime": 42.212,
       "y": 0.291666657,
       "direction": 0
     },
@@ -1845,67 +1821,67 @@
     {
       "type": 0,
       "startTime": 53.7980042,
-      "y": 0.458333343,
+      "y": 0.333333343,
       "direction": 0
     },
     {
       "type": 0,
       "startTime": 53.920002,
-      "y": 0.333333343,
+      "y": 0.25,
       "direction": 0
     },
     {
       "type": 1,
       "startTime": 54.0420036,
-      "y": 0.416666657,
+      "y": 0.208333328,
       "direction": 1
     },
     {
       "type": 0,
       "startTime": 54.163002,
-      "y": 0.166666672,
+      "y": 0.333333343,
       "direction": 0
     },
     {
       "type": 0,
       "startTime": 54.2850037,
-      "y": 0.0833333358,
+      "y": 0.416666657,
       "direction": 0
     },
     {
       "type": 0,
       "startTime": 54.407,
-      "y": 0.0416666679,
+      "y": 0.5,
       "direction": 0
     },
     {
       "type": 0,
       "startTime": 54.5290031,
-      "y": 0.166666672,
+      "y": 0.5833333,
       "direction": 0
     },
     {
       "type": 0,
       "startTime": 54.651,
-      "y": 0.25,
+      "y": 0.375,
       "direction": 0
     },
     {
       "type": 0,
       "startTime": 54.7730026,
-      "y": 0.208333328,
+      "y": 0.416666657,
       "direction": 0
     },
     {
       "type": 0,
       "startTime": 54.8950043,
-      "y": 0.125,
+      "y": 0.291666657,
       "direction": 0
     },
     {
       "type": 0,
       "startTime": 55.0170021,
-      "y": 0.0,
+      "y": 0.125,
       "direction": 0
     },
     {
@@ -2007,79 +1983,79 @@
     {
       "type": 0,
       "startTime": 57.7000046,
-      "y": 0.291666657,
+      "y": 0.166666672,
       "direction": 0
     },
     {
       "type": 0,
       "startTime": 57.8220024,
-      "y": 0.208333328,
+      "y": 0.0833333358,
       "direction": 0
     },
     {
       "type": 0,
       "startTime": 57.9440041,
-      "y": 0.291666657,
+      "y": 0.166666672,
       "direction": 0
     },
     {
       "type": 0,
       "startTime": 58.066,
-      "y": 0.375,
+      "y": 0.25,
       "direction": 0
     },
     {
       "type": 0,
       "startTime": 58.1880035,
-      "y": 0.458333343,
+      "y": 0.333333343,
       "direction": 0
     },
     {
       "type": 0,
       "startTime": 58.31,
-      "y": 0.5833333,
+      "y": 0.458333343,
       "direction": 0
     },
     {
       "type": 0,
       "startTime": 58.432003,
-      "y": 0.6666667,
+      "y": 0.5416667,
       "direction": 0
     },
     {
       "type": 0,
       "startTime": 58.5540047,
-      "y": 0.7916667,
+      "y": 0.6666667,
       "direction": 0
     },
     {
       "type": 0,
       "startTime": 58.6760025,
-      "y": 0.7083333,
-      "direction": 0
-    },
-    {
-      "type": 0,
-      "startTime": 58.7980042,
-      "y": 0.625,
-      "direction": 0
-    },
-    {
-      "type": 0,
-      "startTime": 58.920002,
       "y": 0.5833333,
       "direction": 0
     },
     {
       "type": 0,
-      "startTime": 59.0420036,
+      "startTime": 58.7980042,
       "y": 0.5,
+      "direction": 0
+    },
+    {
+      "type": 0,
+      "startTime": 58.920002,
+      "y": 0.458333343,
+      "direction": 0
+    },
+    {
+      "type": 0,
+      "startTime": 59.0420036,
+      "y": 0.375,
       "direction": 0
     },
     {
       "type": 1,
       "startTime": 59.163002,
-      "y": 0.5,
+      "y": 0.375,
       "direction": 1
     },
     {
@@ -2091,67 +2067,67 @@
     {
       "type": 0,
       "startTime": 59.651,
-      "y": 0.5,
+      "y": 0.5833333,
       "direction": 0
     },
     {
       "type": 0,
       "startTime": 59.7730026,
-      "y": 0.416666657,
-      "direction": 0
-    },
-    {
-      "type": 0,
-      "startTime": 59.8950043,
       "y": 0.5,
       "direction": 0
     },
     {
       "type": 0,
-      "startTime": 60.0170021,
+      "startTime": 59.8950043,
       "y": 0.5833333,
+      "direction": 0
+    },
+    {
+      "type": 0,
+      "startTime": 60.0170021,
+      "y": 0.6666667,
       "direction": 0
     },
     {
       "type": 0,
       "startTime": 60.1390038,
-      "y": 0.6666667,
+      "y": 0.75,
       "direction": 0
     },
     {
       "type": 0,
       "startTime": 60.261,
-      "y": 0.75,
-      "direction": 0
-    },
-    {
-      "type": 0,
-      "startTime": 60.3830032,
       "y": 0.8333333,
       "direction": 0
     },
     {
       "type": 0,
-      "startTime": 60.505,
+      "startTime": 60.3830032,
       "y": 0.9166667,
       "direction": 0
     },
     {
       "type": 0,
+      "startTime": 60.505,
+      "y": 1.0,
+      "direction": 0
+    },
+    {
+      "type": 0,
       "startTime": 60.6270027,
-      "y": 0.75,
+      "y": 0.8333333,
       "direction": 0
     },
     {
       "type": 0,
       "startTime": 60.7490044,
-      "y": 0.6666667,
+      "y": 0.75,
       "direction": 0
     },
     {
       "type": 0,
       "startTime": 60.8710022,
-      "y": 0.5833333,
+      "y": 0.6666667,
       "direction": 0
     },
     {
@@ -2317,10 +2293,10 @@
       "direction": -1
     },
     {
-      "type": 0,
+      "type": 2,
       "startTime": 64.773,
       "y": 0.9166667,
-      "direction": 0
+      "direction": 1
     },
     {
       "type": 0,
@@ -2349,13 +2325,13 @@
     {
       "type": 1,
       "startTime": 65.871,
-      "y": 0.333333343,
+      "y": 0.0833333358,
       "direction": 1
     },
     {
       "type": 1,
       "startTime": 66.237,
-      "y": 0.5833333,
+      "y": 0.6666667,
       "direction": 1
     },
     {
@@ -2451,7 +2427,7 @@
     {
       "type": 0,
       "startTime": 69.4070053,
-      "y": 0.8333333,
+      "y": 0.6666667,
       "direction": 0
     },
     {
@@ -2475,13 +2451,13 @@
     {
       "type": 0,
       "startTime": 70.139,
-      "y": 0.458333343,
+      "y": 0.166666672,
       "direction": 0
     },
     {
       "type": 0,
       "startTime": 70.383,
-      "y": 0.8333333,
+      "y": 0.6666667,
       "direction": 0
     },
     {
@@ -2505,7 +2481,7 @@
     {
       "type": 0,
       "startTime": 71.1150055,
-      "y": 0.458333343,
+      "y": 0.291666657,
       "direction": 0
     },
     {
@@ -2563,10 +2539,10 @@
       "direction": 1
     },
     {
-      "type": 0,
+      "type": 1,
       "startTime": 72.82201,
       "y": 0.7083333,
-      "direction": 0
+      "direction": 1
     },
     {
       "type": 0,
