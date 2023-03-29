@@ -8,7 +8,6 @@ public class DiscordUE4 : ModuleRules
 	public DiscordUE4(ReadOnlyTargetRules Target) : base(Target)
 	{
 		PCHUsage = ModuleRules.PCHUsageMode.UseExplicitOrSharedPCHs;
-		bEnableUndefinedIdentifierWarnings = false;
 
 		if (Directory.Exists(DiscordPath) == false)
 		{
