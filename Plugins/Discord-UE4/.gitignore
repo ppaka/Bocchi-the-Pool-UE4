@@ -75,6 +75,3 @@ Plugins/*/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 
-# Files provided by discord
-Source/DiscordUE4/discord-files/
-Source/ThirdParty/discord-files/
