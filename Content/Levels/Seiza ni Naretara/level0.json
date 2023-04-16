@@ -7447,6 +7447,12 @@
       "direction": 1
     },
     {
+      "type": 1,
+      "startTime": 223.554016,
+      "y": 0.5989583,
+      "direction": 1
+    },
+    {
       "type": 0,
       "startTime": 223.798,
       "y": 0.291666657,
@@ -8479,33 +8485,33 @@
       "direction": 1
     },
     {
-      "type": 0,
+      "type": 2,
       "startTime": 252.212,
-      "y": 0.6666667,
-      "direction": 0
+      "y": 0.541666746,
+      "direction": -1
     },
     {
       "type": 0,
       "startTime": 252.27301,
-      "y": 0.625,
+      "y": 0.50000006,
       "direction": 0
     },
     {
       "type": 0,
       "startTime": 252.334015,
-      "y": 0.5833333,
+      "y": 0.458332866,
       "direction": 0
     },
     {
       "type": 0,
       "startTime": 252.39502,
-      "y": 0.5416667,
+      "y": 0.416665226,
       "direction": 0
     },
     {
       "type": 0,
       "startTime": 252.456009,
-      "y": 0.5,
+      "y": 0.37499842,
       "direction": 0
     }
   ]
